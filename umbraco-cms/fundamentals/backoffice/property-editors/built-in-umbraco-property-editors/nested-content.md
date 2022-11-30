@@ -149,7 +149,6 @@ Example:
 @using ContentModels = Umbraco.Cms.Web.Common.PublishedModels;
 @{
     var item = Model.Value<IPublishedElement>("myPropertyAlias");
-
     if (item != null) {
         <h3>@item.Value("heading")</h3>
     }
