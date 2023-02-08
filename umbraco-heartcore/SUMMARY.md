@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Umbraco Heartcore](README.md)
-* [What is Umbraco Heartcore?](umbraco-heartcore/README.md)
-  * [Compare with Umbraco CMS](umbraco-heartcore/compare-with-umbraco-cms.md)
+  * [Compare with Umbraco CMS](compare-with-umbraco-cms.md)
 * [Versions and updates](versions-and-updates.md)
 
 ## Get started
