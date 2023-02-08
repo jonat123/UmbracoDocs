@@ -4,28 +4,28 @@
   * [Compare with Umbraco CMS](compare-with-umbraco-cms.md)
 * [Versions and updates](versions-and-updates.md)
 
-## Get started
+## Getting started
 
-* [Resources](get-started/getting-started.md)
-* [API Browser](get-started/api-browser.md)
-* [Backoffice Users and API Keys](get-started/backoffice-users-and-api-keys.md)
-* [Building a project from scratch](get-started/creating-a-heartcore-project.md)
-* [Environments](get-started/environments.md)
-* [GraphQL Playground](get-started/graphql-playground.md)
-* [Preview](get-started/preview.md)
-* [The Umbraco Cloud Portal](get-started/the-cloud-portal.md)
-* [Tour of the Backoffice](get-started/the-umbraco-backoffice.md)
-* [Using the Forms API](get-started/using-the-forms-api.md)
-* [Webhooks](get-started/webhooks.md)
-* [Deployment workflow](get-started/deployment-workflow/README.md)
-  * [Content and media transfer / restore](get-started/deployment-workflow/content-transfer.md)
-  * [Structure deployments](get-started/deployment-workflow/structure-deployment.md)
-* [Working in the backoffice](get-started/backoffice/README.md)
-  * [Custom Grid Editors](get-started/backoffice/grid-editors.md)
+* [Resources](getting-started/getting-started.md)
+* [API Browser](getting-started/api-browser.md)
+* [Backoffice Users and API Keys](getting-started/backoffice-users-and-api-keys.md)
+* [Building a project from scratch](getting-started/creating-a-heartcore-project.md)
+* [Environments](getting-started/environments.md)
+* [GraphQL Playground](getting-started/graphql-playground.md)
+* [Preview](getting-started/preview.md)
+* [The Umbraco Cloud Portal](getting-started/the-cloud-portal.md)
+* [Tour of the Backoffice](getting-started/the-umbraco-backoffice.md)
+* [Using the Forms API](getting-started/using-the-forms-api.md)
+* [Webhooks](getting-started/webhooks.md)
+* [Deployment workflow](getting-started/deployment-workflow/README.md)
+  * [Content and media transfer / restore](getting-started/deployment-workflow/content-transfer.md)
+  * [Structure deployments](getting-started/deployment-workflow/structure-deployment.md)
+* [Working in the backoffice](getting-started/backoffice/README.md)
+  * [Custom Grid Editors](getting-started/backoffice/grid-editors.md)
 
 ## API Documentation
 
-* [About the APIs](api-documentation/api-documentation.md)
+* [About the APIs](api-documentation/README.md)
 * [Content Delivery](api-documentation/content-delivery/README.md)
   * [Content](api-documentation/content-delivery/content.md)
   * [Media](api-documentation/content-delivery/media.md)
@@ -49,7 +49,7 @@
 
 ## Client Libraries
 
-* [About the Client Libraries](client-libraries/client-libraries.md)
+* [About the Client Libraries](client-libraries/README.md)
 * [.NET Core Console Application](client-libraries/dot-net-console.md)
 * [Node.js Client library](client-libraries/node-js.md)
 * [.NET Client library](client-libraries/dot-net-core/README.md)
